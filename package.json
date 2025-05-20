@@ -1,7 +1,7 @@
 {
   "name": "bookingnotifs",
   "version": "1.0.0",
-  "description": "hackthe commons",
+  "description": "hack the commons",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
